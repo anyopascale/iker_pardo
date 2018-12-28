@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900');
+
+$dark: rgb(25, 24, 27);
+$base1: #FFFFFF;
+$grey_light: #929497;
+$grd1: repeat(1, 1fr);
+$grd2: repeat(2, 1fr);
+$grd3: repeat(3, 1fr);
+$grd4: repeat(4, 1fr);
+$grd_det: 400px 1fr;
+$gap: 2vw;
+img {
+    max-width: 100%;
+    display: block;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    img{
+        display: block;
+    }
+    a{
+        text-decoration: none;
+    }
+}
+
+
+
